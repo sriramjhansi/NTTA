@@ -27,6 +27,11 @@ public class forloop
 			System.out.println(apple[i]);
 			
 		}
+		for (int i = 0; i < 13; i++) 
+		{
+			System.out.println(i);
+			
+		}
 		
 	}
 	
